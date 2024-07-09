@@ -1,4 +1,4 @@
-#this program will take in two comma separated string of equal length and determine if one is a scrambled version of the other. Will print Yes if it is, No if it is not.
+#this program will take in two comma separated strings of equal length and determine if one is a scrambled version of the other. Will print Yes if it is, No if it is not.
 
 import sys
 

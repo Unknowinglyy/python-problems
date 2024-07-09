@@ -4,7 +4,8 @@ Python programs that solve simple problems (mostly done for practice).
 Problems gotten from: https://emkc.org/challenges/
 
 List of currently solved problems:
-1. Given a Fibonacci number and another number `n`, find the rest of the Fibonacci sequence up to `n` numbers. (fibonacci.py)
+1. Given a Fibonacci number and another number `n`, find the rest of the Fibonacci sequence up to `n` numbers. ([fibonacci.py](https://github.com/Unknowinglyy/python-problems/blob/main/fibonacci.py))
+
 2. Take a number and recursively sum all the digits in that number until the sum is a single digit. (recursiveSum.py)
 3. Given a string of file names, rename them so that there are no duplicates (models the Windows OS file renaming system). (fileNames.py)
 4. Given a string, find the most common character in that string (if there are multiple most common characters, return a comma seperated string of them in the order they appear). (commonChar.py)
